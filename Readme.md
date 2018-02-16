@@ -1,9 +1,11 @@
 ## Git Champs
 ### Create a local repo and push it to github - Step by step
 
-* git init
-* git add -A
-* git commit -m 'proper message'
+```
+git init
+git add -A
+git commit -m 'First commit'
+```
 - Go to github.com, create a new repo(don't add anything), copy the [url] provided, i.e. [https://github.com/your-username/repo-name.git]
 * Then, you're need to add a remote to your local master branch
 ```
