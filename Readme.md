@@ -15,7 +15,7 @@ git remote add origin [url]
 ```
 $ git push -u origin master
 ```
-- Go to github.com and refresh the website
+- Go to github.com and refresh the website 👏
 
 
 
