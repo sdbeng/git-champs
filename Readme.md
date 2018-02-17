@@ -1,7 +1,7 @@
 ## Git Champs
 ## Practice git commands
 ## Instructions
-Add your first name to this list in the class.md file by making a pull request to my repo. It helped me a ton a while ago! The more I practice, the more I feel I can use git in my job / projects. I hope you all have fun! 
+You will be adding your first name to the list, specifically in the class.md file by making a pull request to my repo. If you get stack, research the output error and also look it up on google. 
 
 ## Steps
 - Fork my repo
@@ -45,7 +45,7 @@ Since I'm the one that created the repo, I will be the one with write permission
 
 So this is pretty much what you'll do when working on a team if you are the designated member to compare and pull requests (PR).
 
-I can't wait to see your PRs!
+This helped me a ton a while ago! The more you practice, the more you'll feel at home with git and be able to use it in all job / projects. I hope you all have fun! Can't wait to see your PRs!
 
 
 
