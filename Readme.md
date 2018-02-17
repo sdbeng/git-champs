@@ -1,9 +1,9 @@
-## Git Champs
-## Practice git commands
-## Instructions
-You will be adding your first name to the list, specifically in the class.md file by making a pull request to my repo. If you get stack, research the output error and also look it up on google. 
+## Git Champs - Practice git commands
 
-## Steps
+## Instructions
+You will be adding your first name to the list, specifically in the class.md file by making a pull request to my repo.
+
+### Steps
 - Fork my repo
 - Clone it to your computer as you practice on class.
 - In the command line, cd into that folder and open the class.md file
@@ -46,6 +46,9 @@ Since I'm the one that created the repo, I will be the one with write permission
 So, this is pretty much what you'll do when working on a team if you are the designated member to compare and pull requests (PR).
 
 This practice helped me a ton a while ago! The more you practice, the more you'll feel at home with git and be able to use it in all job / projects. I hope you all have fun! Can't wait to see your PRs!
+
+## Tips
+If you get stack, first research the output error and try to follow the proposed solution, sometimes it's just a command or two. Also look it up on Google, specifically the Github help. Don't stress to much, this is not a homework:)
 
 
 
