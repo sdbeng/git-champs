@@ -31,9 +31,10 @@ git push -u origin jenns-update
 ```
 - -u means upstream and origin is our remote repo
 
-
+Later, when I refresh the website, I should see a bunch of branches being pushed up to my github repo.
 
 ### Step 2
+On my side, I'll integrate those few branches into my master. That's exactly what you'll do when working on a team if you are the designated member to compare and pull requests (PR).
 
 
 
