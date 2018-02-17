@@ -1,4 +1,4 @@
-## Git Champs - Practice git commands
+## Git Champs - Practice git commands: Your first PR
 
 ## Instructions
 You will be adding your first name to the list, specifically in the class.md file by making a pull request to my repo.
