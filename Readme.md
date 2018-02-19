@@ -48,7 +48,7 @@ So, this is pretty much what you'll do when working on a team if you are the des
 This practice helped me a ton a while ago! The more you practice, the more you'll feel at home with git and be able to use it in all job / projects. I hope you all have fun! Can't wait to see your PRs!
 
 ## Tips
-If you get stack, first research the output error and try to follow the proposed solution, sometimes it's just a command or two. Also look it up on Google, specifically on the Github help. Don't stress to much, this is not a homework:)
+If you get stack, first research the output error and try to follow up the proposed solution, sometimes it's just a command or two. Also look it up on Google, specifically on the Github help. Don't stress to much, this is not homework:)
 
 
 
