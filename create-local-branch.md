@@ -15,3 +15,4 @@ git remote add origin [url]
 $ git push -u origin master
 ```
 - Go to github.com and refresh the website 👏
+## Updates made on master branch before rebase
