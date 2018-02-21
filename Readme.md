@@ -50,6 +50,8 @@ This practice helped me a ton a while ago! The more you practice, the more you'l
 ## Tips
 If you get stack, first research the output error and try to follow up the proposed solution, sometimes it's just a command or two. Also look it up on Google, specifically on the Github help. Don't stress to much, this is not homework:)
 
+Changes made to Readme before rebase.
+
 
 
 
