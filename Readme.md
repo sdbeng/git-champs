@@ -53,7 +53,12 @@ If you get stack, first research the output error and try to follow up the propo
 
 Changes made to Readme before rebase.
 
+## Merge conflicts
+Sometimes when the team inadvertently make changes to the working repo you need to be ready to reconcile those changes. This comes into play when you try to pull the code. You'll need to get rid of the unwanted lines of code, then add and commit to master.
 
+Always check the logs with `git log` and also you can have a look at the HEAD by doing `git reflog`.
+
+I stringly reccommend to [read the docs](https://git-scm.com/docs/git-reflog) and practice by making simple changes to a repo.
 
 
 
