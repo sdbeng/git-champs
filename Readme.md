@@ -58,7 +58,7 @@ Sometimes when the team inadvertently make changes to the working repo you need 
 
 Always check the logs with `git log` and also you can have a look at the HEAD by doing `git reflog`.
 
-I stringly reccommend to [read the docs](https://git-scm.com/docs/git-reflog) and practice by making simple changes to a repo.
+I strongly reccommend to read the [docs](https://git-scm.com/docs/git-reflog) and practice by making simple changes to a repo.
 
 
 
