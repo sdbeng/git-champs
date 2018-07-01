@@ -60,7 +60,11 @@ You'll first need to get rid of the unwanted lines of code, then add and commit 
 
 Always check the logs with `git log` and also you can have a look at the HEAD by doing `git reflog`.
 
-I strongly reccommend to read the [docs](https://git-scm.com/docs/git-reflog) and practice by making simple changes to a repo.
+I strongly recommend to read the [docs](https://git-scm.com/docs/git-reflog) and practice by making simple changes to a repo.
 
+One more important command is `git reset`.
+`git reset --hard <commit>`
+`git reset --hard origin/master`
 
+They will help you go back in time and reset your code to the previous state, getting rid of code you don't want or it's not working.
 
