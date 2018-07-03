@@ -5,13 +5,13 @@ You will be adding your first name to the list, specifically in the class.md fil
 
 ### Steps
 - Do a `git pull` then fork my repo
-- Clone it to your computer as you practice on class.
-- In the command line, before making any local changes to go ahead and create your feature branch. See **Step1**
-- Since the best practices as a developer are to work on your local environment, you'll create your own feature branch in the command line. The purpose of having your own branch is to make your own contributions when you belong in a team or test a new feature, then later be merged in with the master.
-- Once you checked out in your branch, cd into that folder and open the class.md file
+- Then clone it to your computer as you practice in class.
+- In the command line, before making any local changes, go ahead and create your feature branch. Follow up on **Step1**
+- Since the best practices as a developer are first to work on your local environment, you'll create your own feature branch in the command line. The purpose of having your branch is to make your own contributions when you belong in a team or test on a new feature, to then later be merged in with the master.
+- Once you checked out your branch, cd into that folder and open the class.md file
 - Add your name in with an asterisk (*) like the ones already in the list.
 
-Tip: always do `git status` to check up on a working clean directory or the current changes to be commited, if any. Don't forget to often do a `git pull` from the master to see latest changes. You never know when someone else has already made new contributions.
+Tip: always run a `git status` to check up on a working clean directory or the current changes to be commited. Don't forget to often do a `git pull` from the master to see latest changes. You never know when someone else has already made new contributions.
 
 ### Step 1
 - In order to create your own branch do `git checkout -b name-of-your-branch`. 
