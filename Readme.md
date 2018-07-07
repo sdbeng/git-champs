@@ -42,16 +42,14 @@ Go ahead refresh the github website, you should see your branch being pushed up 
 
 Later on my site, I'll integrate those branches into my master(if they're made correctly). 
 
-Since I'm the one that created the repo(read & write access, I will be the one accepting the PR. 
+Since I'm the one that created the repo, the owner has read & write access, I will be the one accepting the PR. 
 
 This is pretty much what you'll do when working on a team if you are the designated member to compare and pull requests (PR) on a project.
 
-**Note**: This practice helped me a ton a while ago! The more you practice, the more you'll feel at home with git and be able to use it in all jobs / projects where collaboration is key. I hope you all have fun! Can't wait to see your PRs!
+**Note**: This practice helped me a ton a while ago! The more you practice, the more you'll feel at home with git and be able to use it in all jobs / projects where collaboration is key. I hope you all have fun! Can't wait to see your first PRs!
 
 ## Tips
-If you get stack, first research the output error and try to follow up the proposed solution, sometimes it's just a command or two. Also look it up on Google, specifically on the Github help. Don't stress to much, this is not homework:)
-
-Changes made to Readme before rebase.
+If you get stack, first research the output error and try to follow up the suggested solution, sometimes it's just running a single command. Also look it up on Google, specifically on the Github help. Don't stress to much, you're doing great:)
 
 ## Merge conflicts
 Sometimes when the team inadvertently make changes to the working repo, you must to be ready to **reconcile** those changes. This comes into play when you try to pull out the code.
