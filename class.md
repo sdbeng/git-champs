@@ -1,6 +1,7 @@
-### List
+### List of contributors
 
 * Serg ⚽️
-* Beatrice
-* Michael R
-* Semere G
+
+### VS Code Keyboard shorcuts
+* Show command pallete, shift+cmd+p
+* Keyboard shorcuts, cmd+k cmd+s
